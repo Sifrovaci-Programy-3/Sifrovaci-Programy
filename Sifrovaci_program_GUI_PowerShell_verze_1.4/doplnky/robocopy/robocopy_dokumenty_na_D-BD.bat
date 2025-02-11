@@ -10,3 +10,4 @@ date /t > D:\RoboCopy\last_sync_time-date_info.txt & time/t >> D:\Robocopy\last_
 
 pause
 @echo on
+REM zalohuje na BlueRay disk na kterem musi byt format windows 10 jako flash disk
